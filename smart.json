@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "iron-router": {},
+    "facebook-sdk": {},
+    "iron-router-progress": {},
+    "bootstrap-3": {},
+    "roles": {}
+  }
+}

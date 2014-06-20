@@ -1,0 +1,9 @@
+if(Meteor.isClient){
+    $(document).ready(function(){
+        setTimeout(function(){
+            $('body').prop('id','page-top');
+            $('body').prop('data-spy','scroll');
+            $('body').prop('data-target','.navbar-fixed-top');
+        },500)
+    })
+}
